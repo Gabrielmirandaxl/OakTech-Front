@@ -1,0 +1,22 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .form .dados{
+  margin: 0px 0px 10px 0px;
+}
+
+.container .form .dados label{
+  display: block;
+}
+
+.container .form .dados input{
+  border: 1px solid;
+  outline: none;
+  width: 200px;
+  height: 25px;
+  border-radius: 6px;
+  padding: 0px 0px 0px 8px;
+}
