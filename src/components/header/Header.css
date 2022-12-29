@@ -1,0 +1,19 @@
+
+.header{
+  display: flex;
+  align-items: center;
+}
+
+.header h1{
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header .link{
+  margin: 0px 0px 0px 15px;
+  text-decoration: none;
+  color: #141414;
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

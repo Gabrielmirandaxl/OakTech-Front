@@ -1,0 +1,17 @@
+.product{
+  padding: 5px;
+  border: 1px solid;
+  width: 410px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.product .value{
+  display: block;
+  margin: 0px 0px 5px 0px;
+}
+
+.product .desc{
+  margin: 0px 0px 0px 80px;
+}
